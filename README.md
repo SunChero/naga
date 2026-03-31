@@ -1,3 +1,3 @@
 # naga
 malware detonation plateform
-[![WATCH IT](./record/det.mp4)]
+<video src="./record/det.mp4" width="100%" autoplay loop muted></video>
