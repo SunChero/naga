@@ -1,3 +1,5 @@
 # naga
-malware detonation plateform
-<video src="./record/det.mp4" width="100%" autoplay loop muted></video>
+malware detonation..
+
+https://github.com/user-attachments/assets/32580cec-59de-4d5c-a5ea-617f70734e6f
+
