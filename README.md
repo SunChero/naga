@@ -1,6 +1,10 @@
 # naga
 malware detonation..actually running in debug/verbose mode .. 
 
+video-1
+
+
+https://github.com/user-attachments/assets/40a30755-164e-4b7d-a1d7-b0df4ea20d1b
 
 shot-1
 
@@ -18,9 +22,6 @@ shot-4
 <img width="1895" height="939" alt="Screenshot 2026-04-01 000636" src="https://github.com/user-attachments/assets/f2501bcc-2f3c-44c1-ae40-315ba89d1be1" />
 
 
-video-1
 
-
-https://github.com/user-attachments/assets/40a30755-164e-4b7d-a1d7-b0df4ea20d1b
 
 
