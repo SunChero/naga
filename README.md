@@ -1,5 +1,5 @@
 # naga
-malware detonation..
+malware detonation..actually running in debug/verbose mode .. 
 
 
 shot-1
